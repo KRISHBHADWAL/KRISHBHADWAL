@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning JavaScript, React , etc.  
   
 
-- 💬 Ask me about anything related to C , C++ , Rom Developing stuff , Web Development stuff(Newbie)  
+- 💬 Ask me about anything related to C , C++ , Rom Developing stuff , Web Development stuff(Newbie).
+
+- I am currently maintaining Custom Roms For Bitra.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
