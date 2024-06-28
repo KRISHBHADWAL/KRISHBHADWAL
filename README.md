@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Devops and its applications  
   
 
-- 💬 Ask me about anything related to C , C++ , Rom Developing stuff , Web Development stuff(Newbie).
+- 💬 Ask me about anything related to C , C++ , Rom Developing stuff , Web Development stuff.
 
 - I am currently maintaining Custom Roms For Bitra.
   
