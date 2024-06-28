@@ -6,7 +6,7 @@
 ### <div align="center">I'm Krish Bhadwal, A passionate coder and Rom Developer from India</div>  
   
 
-- 🌱 I’m currently learning JavaScript, React , etc.  
+- 🌱 I’m currently learning Devops and its applications  
   
 
 - 💬 Ask me about anything related to C , C++ , Rom Developing stuff , Web Development stuff(Newbie).
